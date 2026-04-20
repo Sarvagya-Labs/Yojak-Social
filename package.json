@@ -1,0 +1,19 @@
+{
+  "name": "yojak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "yojak-web-client",
+    "yojak-web-server",
+    "yojak-desktop-client",
+    "yojak-mobile-app-client"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
